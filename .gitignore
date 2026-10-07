@@ -1,0 +1,14 @@
+node_modules
+dist
+.DS_Store
+*.local
+.env
+.env.*
+!.env.example
+coverage
+logs
+*.log
+npm-debug.log*
+uploads
+tmp
+.temp
